@@ -41,6 +41,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void stop2(View view) {
-        mMarqueeView.stop();
+        mMarqueeView2.stop();
     }
 }
