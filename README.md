@@ -57,6 +57,14 @@ mMarqueeView.toggleFlip();
 mMarqueeView2.stop();
 ```
 
-####支持的属性:表格就不画了,都在代码里.
+####属性:
+|      attribute      |       meaning       |
+| :--------------: | :-----------------: |
+|  textColor     |     文字颜色       |
+|  textSize      |      文字大小      |
+|  textGravity   |      文字对齐方式   |
+|  internal      |      滚动的间隔时间  |
+|  flipDuration  |      滚动动画执行的时长|
+|  flipOrientation|     滚动的方向       |
 
 ###有任何问题请联系我(email:hjm0908hjm@163.com),欢迎issue,pr!
