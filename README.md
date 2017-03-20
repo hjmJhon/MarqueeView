@@ -40,7 +40,6 @@ setData:
 ```
 mMarqueeView.setData(data);
 mMarqueeView2.setData(data);
-
 ```
 tip:调用setData(List<String> data)方法后会自动调用start方法开始滚动.
 
@@ -48,7 +47,6 @@ tip:调用setData(List<String> data)方法后会自动调用start方法开始滚
 
 ```
 mMarqueeView.toggleFlip();
-
 ```
 
 停止:
@@ -59,7 +57,7 @@ mMarqueeView2.stop();
 
 #### 属性:
 |      attribute      |       meaning       |
-| :--------------: | :-----------------: |
+| :-------------- | :----------------- |
 |  textColor     |     文字颜色       |
 |  textSize      |      文字大小      |
 |  textGravity   |      文字对齐方式   |
