@@ -1,12 +1,12 @@
 # MarqueeView
 跑马灯,支持上下两个方向滚动
 
-####特点:
+#### 特点:
 只创建两个TextView.之前有在githup上看到过跑马灯的实现,差不多都是会随着数据的多少而创建多少TextView.个人觉得这种方式不是很优雅.所以就有了这个库.
-####效果图:
+#### 效果图:
 ![](https://github.com/hjmJhon/MarqueeView/raw/master/ScreenShots/screen.gif)
 
-####使用:直接把lib拷进你的project添加依赖即可
+#### 使用:直接把lib拷进你的project添加依赖即可
 in your layout:
 
 ```
@@ -57,7 +57,7 @@ mMarqueeView.toggleFlip();
 mMarqueeView2.stop();
 ```
 
-####属性:
+#### 属性:
 |      attribute      |       meaning       |
 | :--------------: | :-----------------: |
 |  textColor     |     文字颜色       |
@@ -67,4 +67,4 @@ mMarqueeView2.stop();
 |  flipDuration  |      滚动动画执行的时长|
 |  flipOrientation|     滚动的方向       |
 
-###有任何问题请联系我(email:hjm0908hjm@163.com),欢迎issue,pr!
+### 有任何问题请联系我(email:hjm0908hjm@163.com),欢迎issue,pr!
